@@ -1,9 +1,9 @@
 # Let's Talk
 
-  <p align="center">
+  <p>
     Let's Talk" is an idea of mine aimed at assisting individuals battling depression. This project serves as the landing page for the Let's Talk Foundation.
     <br />
-    <a href="https://github.com/adityakaushik01/lets-talk"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adityakaushik01/lets-talk"><strong>Explore the code</strong></a>
   </p>
 </div>
 
