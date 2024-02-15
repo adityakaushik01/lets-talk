@@ -1,6 +1,4 @@
-# Lets Talk
-
-  <h3 align="center">Let's Talk</h3>
+# Let's Talk
 
   <p align="center">
     Let's Talk" is an idea of mine aimed at assisting individuals battling depression. This project serves as the landing page for the Let's Talk Foundation.
