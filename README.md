@@ -13,11 +13,6 @@ Live Code - <a href="https://adityakaushik01.github.io/lets-talk/">Click Here</a
     <br />
     <br />
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://adityakaushik01.github.io/lets-talk/)
-
 ### Built With
 
  I am using HTML and CSS for this project, and I am also incorporating JavaScript. I plan to update it with additional functionalities and necessary data.
