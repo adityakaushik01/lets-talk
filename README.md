@@ -18,10 +18,6 @@ Live Code - <a href="https://adityakaushik01.github.io/lets-talk/">Click Here</a
 
 [![Product Name Screen Shot][product-screenshot]](https://adityakaushik01.github.io/lets-talk/)
 
-
-    <br />
-    <br />
-
 ### Built With
 
  I am using HTML and CSS for this project, and I am also incorporating JavaScript. I plan to update it with additional functionalities and necessary data.
@@ -30,3 +26,6 @@ Live Code - <a href="https://adityakaushik01.github.io/lets-talk/">Click Here</a
 * <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+[product-screenshot]: images/screenshot.png
