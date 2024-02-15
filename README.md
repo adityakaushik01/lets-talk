@@ -3,11 +3,15 @@
   <p>
     Let's Talk" is an idea of mine aimed at assisting individuals battling depression. This project serves as the landing page for the Let's Talk Foundation.
     <br />
+    <br />
     <a href="https://github.com/adityakaushik01/lets-talk"><strong>Explore the code</strong></a>
   </p>
 </div>
+    <br />
 
 Live Code - <a href="https://adityakaushik01.github.io/lets-talk/">Click Here</a>
+    <br />
+    <br />
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -15,6 +19,8 @@ Live Code - <a href="https://adityakaushik01.github.io/lets-talk/">Click Here</a
 [![Product Name Screen Shot][product-screenshot]](https://adityakaushik01.github.io/lets-talk/)
 
 
+    <br />
+    <br />
 
 ### Built With
 
