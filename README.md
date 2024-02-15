@@ -9,7 +9,7 @@
 </div>
     <br />
 
-Live Code - <a href="https://adityakaushik01.github.io/lets-talk/">Click Here</a>
+Live Code - <a href="https://adityakaushik01.github.io/lets-talk/" target="_blank">Click Here</a>
     <br />
     <br />
 
